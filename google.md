@@ -1,8 +1,3 @@
-### Assignment
-* title **google**
-* Create or use an existing programming task in a programming language of a class you are teaching (or would like to teach).
-  - The task should involve multiple steps, ~5.
-
 Task:
 
 //1) Make 5 points at different locations on the canvas
