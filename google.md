@@ -7,7 +7,6 @@ Task:
 5) Bonus challenge, make an ellipse that is perfectly centered on a rectangle
 
 Result 1:  https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Drawing_shapes<br/>
-    - Provide a critique on the result. Things to consider:
      <br/> - Was it useful?<br/>
       <br/>This resource does contain good details, explanation, and visualization of the concepts at hand.  It does not explicitly give students an answer but it does help them find and explore ways to create answers that satisfy one of the demands of the task.
      <br/> - Was it too simple/complex?<br/>
@@ -21,12 +20,16 @@ Result 1:  https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/
 <br/>
 Result 2:  https://eloquentjavascript.net/17_canvas.html
 - Provide a critique on the result. Things to consider:
-      - Was it useful?
-      V
-      - Was it too simple/complex?
-      - Was it unecessarily compicated?
+      <br/>- Was it useful?<br/>
+     <br/> This resource is incredibly rich and detailed, but is unfortunately largely a wall of text.<br/>
+    <br/>  - Was it too simple/complex?<br/>
+  <br/>  This resource is way too complex for many of my student entry points.<br/>
+     <br/> - Was it unecessarily compicated?<br/>
+     <br/> For my context, yes <br/>
       - Did it include copypastable code?
-      - Did you learn from it/could a student learn from it?
+      - <br/>No, thankfully <br/>
+     <br/> - Did you learn from it/could a student learn from it?<br/>
+      - <br/>I learned some complex thoughts and the way things work but I dont think a student would have the patience to extract this information from it. <br/>
 
 Result 3:  https://www.khanacademy.org/computer-programming/ellipsex-y-w-h-processingjs/839435680
 - Provide a critique on the result. Things to consider:
