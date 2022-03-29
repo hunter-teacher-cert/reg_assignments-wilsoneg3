@@ -15,7 +15,7 @@ Task:
 * In a markdown file:
   - Describe the task
   - For each search you ran provide three links from the results
-  - 
+  
   https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Drawing_shapes
     - Provide a critique on the result. Things to consider:
       - Was it useful?
@@ -24,3 +24,18 @@ Task:
       - Did it include copypastable code?
       - Did you learn from it/could a student learn from it?
 
+https://eloquentjavascript.net/17_canvas.html
+- Provide a critique on the result. Things to consider:
+      - Was it useful?
+      - Was it too simple/complex?
+      - Was it unecessarily compicated?
+      - Did it include copypastable code?
+      - Did you learn from it/could a student learn from it?
+
+https://www.khanacademy.org/computer-programming/ellipsex-y-w-h-processingjs/839435680
+- Provide a critique on the result. Things to consider:
+      - Was it useful?
+      - Was it too simple/complex?
+      - Was it unecessarily compicated?
+      - Did it include copypastable code?
+      - Did you learn from it/could a student learn from it?
