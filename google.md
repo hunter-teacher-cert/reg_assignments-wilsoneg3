@@ -1,10 +1,10 @@
 Task:
 
-//1) Make 5 points at different locations on the canvas
-//2) Connect 2 points with lines
-//3) Make 4 ellipses in different parts of the canvas
-//4) Make 4 rects on different parts of the canvas
-//5) Bonus challenge, make an ellipse that is perfectly centered on a rectangle
+1) Make 5 points at different locations on the canvas
+2) Connect 2 points with lines
+3) Make 4 ellipses in different parts of the canvas
+4) Make 4 rects on different parts of the canvas
+5) Bonus challenge, make an ellipse that is perfectly centered on a rectangle
 
 * Run a few internet searches that a student might run when presented with your task.
 * In a markdown file:
