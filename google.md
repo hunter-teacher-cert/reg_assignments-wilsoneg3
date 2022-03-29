@@ -8,17 +8,17 @@ Task:
 
 Result 1:  https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Drawing_shapes
     - Provide a critique on the result. Things to consider:
-      - Was it useful?
+      - Was it useful?<br/>
       This resource does contain good details, explanation, and visualization of the concepts at hand.  It does not explicitly give students an answer but it does help them find and explore ways to create answers that satisfy one of the demands of the task.
-      - Was it too simple/complex?
-      For struggling readers the resource may be too complex to extract the necessary information.  It is a lot of reading and would benefit from more visualization.  This would be a good resource for an independent learner but might not help struggling/ reluctant learners who are lost with code.
+      - Was it too simple/complex?<br/>
+      For struggling readers the resource may be too complex to extract the necessary information.  It is a lot of reading and would benefit from more visualization.  This would be a good resource for an independent learner but might not help struggling/ reluctant learners who are lost with code.<br/>
       - Was it unecessarily compicated?
-      No
+      No<br/>
       - Did it include copypastable code?
-      No
+      No<br/>
       - Did you learn from it/could a student learn from it?
       I sort of already knew most of the material but appreciated undersatnding the different approach to teaching a smiliar concept.
-
+<br/>
 Result 2:  https://eloquentjavascript.net/17_canvas.html
 - Provide a critique on the result. Things to consider:
       - Was it useful?
