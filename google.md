@@ -19,7 +19,6 @@ Result 1:  https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/
     <br/>  I sort of already knew most of the material but appreciated undersatnding the different approach to teaching a smiliar concept.
 <br/>
 Result 2:  https://eloquentjavascript.net/17_canvas.html
-- Provide a critique on the result. Things to consider:
       <br/>- Was it useful?<br/>
      <br/> This resource is incredibly rich and detailed, but is unfortunately largely a wall of text.<br/>
     <br/>  - Was it too simple/complex?<br/>
@@ -32,9 +31,13 @@ Result 2:  https://eloquentjavascript.net/17_canvas.html
       - <br/>I learned some complex thoughts and the way things work but I dont think a student would have the patience to extract this information from it. <br/>
 
 Result 3:  https://www.khanacademy.org/computer-programming/ellipsex-y-w-h-processingjs/839435680
-- Provide a critique on the result. Things to consider:
-      - Was it useful?
-      - Was it too simple/complex?
-      - Was it unecessarily compicated?
-      - Did it include copypastable code?
-      - Did you learn from it/could a student learn from it?
+     <br/> - Was it useful?<br/>
+     <br/>This resource was probably the most useful one.  It has videos, images, and simple language to extract information from. <br/>
+      <br/>- Was it too simple/complex?<br/>
+      <br/>This resource probably met the Goldilocks' "Just right" threshold.  It pushes students to learn the concept without enabling them to copy-paste an answer to the problem provided by me. <br/>
+     <br/> - Was it unecessarily compicated?<br/>
+     No
+      <br/>- Did it include copypastable code?<br/>
+      No
+     <br/> - Did you learn from it/could a student learn from it?<br/>
+     Yes- I got a lot from it and I know many of my students would too.
